@@ -47,4 +47,4 @@ A step by step series of examples that tell you how to get this project running
 * Spring Boot 2.0.5
 * JPA
 * Lambok
-Java Spring Web REST Apis Projects
+* Java Spring Web REST Apis Projects
